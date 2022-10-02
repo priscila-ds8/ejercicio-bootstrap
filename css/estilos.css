@@ -1,0 +1,15 @@
+
+.tamañoGrupo{
+    margin: 0 auto;
+    width:100%;
+    padding-bottom: 3%;
+}
+
+.tamañoCard{
+    height: 50%;
+   
+}
+
+.display{
+    display: block;
+}
